@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Tech_Live.mp3-27dfd1f292bee90dd213346ff988af69.mp3str"
+
+[deps]
+
+source_file="res://Audio/Tech_Live.mp3"
+dest_files=[ "res://.import/Tech_Live.mp3-27dfd1f292bee90dd213346ff988af69.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
